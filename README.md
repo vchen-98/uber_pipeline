@@ -5,6 +5,8 @@ Uber Data Analytics | Data Engineering Pipeline
 About: 
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
+The data engineering and sub-querying is done in Pandas, the Cloud dataset storage and VM recall is done in Google Cloud Console, and the data fetching is done in 
+
 Technology Used:
 Programming Language - Python
 Google Cloud Platform
