@@ -22,3 +22,10 @@ sudo pip3 install pandas
 sudo pip3 install google-cloud
 
 sudo pip3 install google-cloud-bigquery
+
+
+# To start mage ui
+mage start uber_data_engi
+
+# Then go to the following address
+# 34.125.112.250:6789
