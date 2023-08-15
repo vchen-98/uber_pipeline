@@ -7,6 +7,10 @@ The goal of this project is to perform data analytics on Uber data using various
 
 The data engineering and sub-querying is done in Pandas, the Cloud dataset storage and VM recall is done in Google Cloud Console, and the data fetching is done in 
 
+First, we open adn explore our data in Python using Pandas. We can examine and cross reference this data with the info provided with the dataset. 
+2. Create our ERD in Lucid
+3. Separate and clean our dataset in Pandas. 
+
 Technology Used:
 Programming Language - Python
 Google Cloud Platform
