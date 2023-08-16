@@ -10,6 +10,7 @@ The data engineering and sub-querying is done in Pandas, the Cloud dataset stora
 First, we open adn explore our data in Python using Pandas. We can examine and cross reference this data with the info provided with the dataset. 
 2. Create our ERD in Lucid
 3. Separate and clean our dataset in Pandas. 
+4. Set up Google Cloud Console
 
 Technology Used:
 Programming Language - Python
