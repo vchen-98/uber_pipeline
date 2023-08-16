@@ -11,6 +11,8 @@ First, we open adn explore our data in Python using Pandas. We can examine and c
 2. Create our ERD in Lucid
 3. Separate and clean our dataset in Pandas. 
 4. Set up Google Cloud Console
+5. Use Google Cloud VM to host our data
+6. Set up our data pipeline and transformer in Mage
 
 Technology Used:
 Programming Language - Python
