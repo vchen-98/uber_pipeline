@@ -14,6 +14,7 @@ First, we open adn explore our data in Python using Pandas. We can examine and c
 5. Use Google Cloud VM to host our data
 6. Set up our data pipeline and transformer in Mage
 7. Run the pipeline through Mage and host our data on Google BigQuery
+8. Run SQL queries and visual analytics 
 
 Technology Used:
 Programming Language - Python
