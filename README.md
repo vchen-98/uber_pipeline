@@ -13,8 +13,10 @@ First, we open adn explore our data in Python using Pandas. We can examine and c
 4. Set up Google Cloud Console
 5. Use Google Cloud VM to host our data
 6. Set up our data pipeline and transformer in Mage
-7. Run the pipeline through Mage and host our data on Google BigQuery
+7. Run the pipeline through Mage and endpoint our transformed data on Google BigQuery
 8. Run SQL queries and visual analytics through Looker Studio, pulling from BigQuery
+
+9. Looker dashboard
 
 Technology Used:
 Programming Language - Python
