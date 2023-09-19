@@ -7,7 +7,7 @@ The goal of this project is to perform data analytics on Uber data using various
 
 The data engineering and sub-querying is done in Pandas, the Cloud dataset storage and VM recall is done in Google Cloud Console, and the data fetching is done in 
 
-First, we open adn explore our data in Python using Pandas. We can examine and cross reference this data with the info provided with the dataset. 
+First, we open and explore our data in Python using Pandas. We can examine and cross reference this data with the info provided with the dataset. 
 2. Create our ERD in Lucid
 3. Separate and clean our dataset in Pandas. 
 4. Set up Google Cloud Console
@@ -45,6 +45,7 @@ https://lucid.app/lucidchart/94acc3ed-48eb-4e99-8174-7149d901061f/edit?beaconFlo
 
 ### Instructions for Google Cloud Console
 mage start uber_data_engi
+34.125.112.250:6789
 
 
 ### Common Issues
