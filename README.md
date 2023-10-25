@@ -15,7 +15,6 @@ First, we open and explore our data in Python using Pandas. We can examine and c
 6. Set up our data pipeline and transformer in Mage
 7. Run the pipeline through Mage and endpoint our transformed data on Google BigQuery
 8. Run SQL queries and visual analytics through Looker Studio, pulling from BigQuery
-
 9. Looker dashboard
 
 Technology Used:
@@ -51,3 +50,4 @@ mage start uber_data_engi
 ### Common Issues
 SSH for Google Cloud VM doesn't work well with spotty connection
 Maybe a browser memory issue when working with Mage? Running the transformer does not work well
+Alternatives to Mage.ai: 
