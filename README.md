@@ -44,10 +44,13 @@ https://lucid.app/lucidchart/94acc3ed-48eb-4e99-8174-7149d901061f/edit?beaconFlo
 
 ### Instructions for Google Cloud Console
 mage start uber_data_engi
+
 34.125.112.250:6789
 
 
 ### Common Issues
 SSH for Google Cloud VM doesn't work well with spotty connection
+
 Maybe a browser memory issue when working with Mage? Running the transformer does not work well
+
 Alternatives to Mage.ai: 
